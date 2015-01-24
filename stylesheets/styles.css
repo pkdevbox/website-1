@@ -306,6 +306,22 @@ a.buttons {
 	height: 30px;
 }
 
+a.code {
+	background: url(../images/code10.png) no-repeat 1px;
+}
+
+a.news {
+	background: url(../images/rss25.png) no-repeat 1px;
+}
+
+a.forum {
+	background: url(../images/comment33.png) no-repeat 1px;
+}
+
+a.wiki {
+	background: url(../images/information34.png) no-repeat 1px;
+}
+
 a.github {
 	background: url(../images/octocat-small.png) no-repeat 1px;
 }
