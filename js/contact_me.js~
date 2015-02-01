@@ -22,7 +22,7 @@ $(function() {
                 type: "POST",
                 data: {
                     name: name,
-                    subject: subject,
+                    subject: phone,
                     email: email,
                     message: message
                 },
